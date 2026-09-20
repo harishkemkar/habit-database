@@ -1,6 +1,6 @@
 # main.tf
 
-# Configure AWS provider
+# Configure AWS provider test
 provider "aws" {
   region = "ap-southeast-1"   # Change if you want another region
 }
